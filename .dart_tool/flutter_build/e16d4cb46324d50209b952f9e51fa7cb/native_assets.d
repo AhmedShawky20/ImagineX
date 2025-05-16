@@ -1,0 +1,1 @@
+ C:\\Users\\Shawky\\StudioProjects\\ImagineX\\.dart_tool\\flutter_build\\e16d4cb46324d50209b952f9e51fa7cb\\native_assets.yaml: 
